@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit
+wfdb
+torchdiffeq
+tqdm
+seaborn
+scipy

@@ -1,0 +1,4 @@
+minor_project/data/
+*.csv
+.venv/
+__pycache__/
