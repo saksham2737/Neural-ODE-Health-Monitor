@@ -1,10 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-                                                                                                                                                                                                                      ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-                                                                                                         ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)# 🩺 Neural ODE Health Monitoring System
+ 🩺 Neural ODE Health Monitoring System
 
 An AI-powered health monitoring system that uses **Neural Ordinary Differential Equations (Neural ODEs)** to analyze ECG signals and detect cardiac abnormalities. The project provides a real-time interactive dashboard built with **Streamlit** for ECG visualization, prediction, heart rate monitoring, and ICU-style monitoring.
 
